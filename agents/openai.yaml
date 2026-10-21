@@ -1,4 +1,4 @@
 interface:
-  display_name: "Kaemi Avatar · 个人 Q 版形象"
+  display_name: "MiniMe · 你的小小分身"
   short_description: "上传本人真实照片并选择 work、casual 等状态，生成个人 Q 版形象"
-  default_prompt: "请用 $kaemi-avatar 根据我上传的本人真实照片和指定状态制作 Q 版形象；缺少照片或状态时先提醒我补充。"
+  default_prompt: "请用 $minime 根据我上传的本人真实照片和指定状态制作 Q 版形象；缺少照片或状态时先提醒我补充。"
